@@ -1,5 +1,5 @@
 
-<h1>Manipulating Pointclouds using the Pointcloud Library</h1>
+<h1>Manipulating Pointclouds using the PointCloud Library and ROS</h1>
 Simulation Software: Gazebo and ROSCPP
 Framework: ROS
 <ol><li>Filtering
