@@ -1,5 +1,5 @@
 
-<h1>Task: Manipulating a point cloud to filter the PointCloud and cluster objects</h1>
+<h1>Manipulating Pointclouds using the Pointcloud Library</h1>
 Simulation Software: Gazebo and ROSCPP
 Framework: ROS
 <ol><li>Filtering
